@@ -21,6 +21,11 @@ body{
 	text-align: left;
 	background-color:white;
 	position: relative;
+	background-image: url('./background.png');
+  	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+ 	background-position: center;
+
 }
 
 img, video{
