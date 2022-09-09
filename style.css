@@ -14,6 +14,8 @@ footer{
 
 body{
 	font-family: Arial;
+	-webkit-text-fill-color: transparent;
+  	-webkit-text-stroke: 1px;
 	margin: auto;
 	padding:18px;
 	max-width: 600px;
