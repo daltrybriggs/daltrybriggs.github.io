@@ -14,7 +14,7 @@ footer{
 
 body{
 	font-family: Arial;
-	font-color: #000;
+	font-color: #fff;
 	margin: auto;
 	padding:18px;
 	max-width: 600px;
@@ -23,7 +23,7 @@ body{
 	background-color:white;
 	position: relative;
 	background-image: url('./background.jpg');
-  	background-repeat: no-repeat;
+  	background-repeat: center;
  	background-attachment: relative;
  	background-position: cover;
 }
