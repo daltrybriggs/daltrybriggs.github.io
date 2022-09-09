@@ -28,6 +28,18 @@ body{
  	background-position: cover;
 }
 
+h1{
+	font-family: "Abril Fatface";
+	color: #fff;
+	font-size: 36px;
+}
+
+h2{
+	font-family: "Abril Fatface";
+	color: #fff;
+	font-size: 24px;
+}
+
 div.relative{
 	position: relative;
 	left 60;
