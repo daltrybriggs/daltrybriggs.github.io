@@ -20,7 +20,7 @@ body{
 	margin: auto;
 	padding:18px;
 	max-width: 600px;
-	font-size:18px;
+	font-size:40px;
 	text-align: left;
 	background-color:white;
 	position: relative;
@@ -33,13 +33,13 @@ body{
 h1{
 	font-family: "Abril Fatface";
 	color: #fff;
-	font-size: 36px;
+	font-size: 80px;
 }
 
 h2{
 	font-family: "Abril Fatface";
 	color: #fff;
-	font-size: 24px;
+	font-size: 60px;
 }
 
 div.relative{
