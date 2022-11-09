@@ -59,14 +59,14 @@ nav{
 }
 h1{
 	font-family: "Abril Fatface";
-	font-style: normal;
+	font-style: light;
 	color: var(--fontcolor);
 	font-size: 40px;
 }
 
 h2{
 	font-family: "Abril Fatface";
-	font-style: normal;
+	font-style: light;
 	color: var(--fontcolor);
 	font-size: 30px;
 }
