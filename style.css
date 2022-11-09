@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://fonts.google.com/specimen/Abril+Fatface">
 	
-.vars{
+:root{
 	--bg-color: DarkSeaGreen;
 	--font-color: white;
 	--font-highlight: DarkGreen;
