@@ -73,7 +73,7 @@ div.relative{
 
 img, video{
 	max-width: 600px;
-	border: 2px solid #eba613;
+	border: 2px solid var(--fonthighlight);
 }
 
 .responsive {
