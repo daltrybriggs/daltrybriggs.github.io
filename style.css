@@ -28,7 +28,7 @@ body{
 	color: var(--fontcolor);
 	margin: auto;
 	padding: 18px;
-	max-width: 75%;
+	max-width: 60%;
 	font-size: 18px;
 	text-align: left;
 	background-color: var(--bgcolor);
