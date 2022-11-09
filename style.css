@@ -28,16 +28,13 @@ body{
 	color: var(--fontcolor);
 	margin: auto;
 	padding: 18px;
-	max-width: 600px;
+	max-width: 75%;
 	font-size: 18px;
 	text-align: left;
 	background-color: var(--bgcolor);
-	position: relative;
-	border: #CDD7E6;
-	border-width: 50px;
 	background-image: url('./background3.jpg');
   	background-repeat: center center;
- 	background-attachment: fixed;
+ 	background-attachment: relative;
  	background-position: cover;
 }
 
