@@ -8,7 +8,6 @@
 a:link, a:visited {
   color: var(--fontcolor);
   text-decoration: none;
-  display: inline-block;
   font-family: "Abril Fatface";
 	font-size: 20px;
 	font-weight: bold;
