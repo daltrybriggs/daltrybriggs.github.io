@@ -5,13 +5,18 @@
 	--linkcolor: DeepPink;
 }
 
-a{
-	color: var(--fontcolor);
-	hover: var(--fonthighlight);
-	visited: var(--linkcolor);
-	font-family: "Abril Fatface";
+a:link, a:visited {
+  color: var(--fontcolor);
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Abril Fatface";
 	font-size: 20px;
 	font-weight: bold;
+}
+
+a:hover, a:active {
+  color: var(--fonthighlight);
+  text-decoration: none;
 }
 
 nav a, footer div a{
