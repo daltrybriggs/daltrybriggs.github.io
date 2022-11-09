@@ -6,7 +6,8 @@
 }
 
 a{
-	color: var(--fonthighlight);
+	color: var(--fontcolor);
+	hover: var(--fonthighlight);
 	font-family: "Abril Fatface";
 	text-decoration: none;
 	font-size: 20px;
