@@ -44,6 +44,12 @@ h2{
 	font-size: 40px;
 }
 
+h3{
+	font-family: "arial";
+	color: #fff;
+	font-size: 16px;
+}
+
 div.relative{
 	position: relative;
 	left 60;
