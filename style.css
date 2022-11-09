@@ -45,9 +45,8 @@ body{
 	text-align: left;
 	background-color: var(--bgcolor);
 	background-image: url('./background3.jpg');
-  	background-repeat: center center;
  	background-attachment: relative;
- 	background-position: cover;
+ 	background-size: cover;
 }
 
 nav{
