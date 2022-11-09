@@ -1,10 +1,10 @@
 <link rel="stylesheet" href="https://fonts.google.com/specimen/Abril+Fatface">
 	
 .vars{
-	--bg-color: #bacdba;
-	--font-color: #6b92a0;
-	--font-highlight: #6b92a0;
-	--link-color: #eb136d;
+	--bg-color: DarkSeaGreen;
+	--font-color: white;
+	--font-highlight: DarkGreen;
+	--link-color: DeepPink;
 }
 
 a{
