@@ -1,7 +1,15 @@
 	<link rel="stylesheet" href="https://fonts.google.com/specimen/Abril+Fatface">
+	
+:root{
+	--bg-color: #BACDBA;
+	--font-color: #6B92A0;
+	--font-highlight: #6B92A0;
+	--link-color: #eb136d;
+	
+}
 
 a{
-	color:#eb136d;
+	color: var(--link-color);
 	text-decoration: none;
 	font-size: 16px;
 }
@@ -17,16 +25,16 @@ footer{
 
 body{
 	font-family: Arial;
-	color: #000;
+	color: var(--font-color);
 	margin: auto;
 	padding:18px;
 	max-width: 600px;
 	font-size:18px;
 	text-align: left;
-	background-color:white;
+	background-color:var(--bg-color);
 	position: relative;
 	border: #CDD7E6;
-	border-width: thin;
+	border-width: 50px;
 	/*background-image: url('./background.jpg');
   	background-repeat: center;
  	background-attachment: relative;
@@ -35,14 +43,14 @@ body{
 
 h1{
 	font-family: "Abril Fatface";
-	color: #000;
-	font-size: 80px;
+	color: var(--font-color);
+	font-size: 40px;
 }
 
 h2{
 	font-family: "Abril Fatface";
-	color: #000;
-	font-size: 40px;
+	color: var(--font-color);
+	font-size: 30px;
 }
 
 div.relative{
