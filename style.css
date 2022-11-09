@@ -1,8 +1,9 @@
 :root{
 	--bgcolor: DarkSeaGreen;
 	--fontcolor: white;
-	--fonthighlight: /*#eba613*/ #57714F;
+	--fonthighlightgreen: #57714F;
 	--linkcolor: DeepPink;
+	--fonthighlightorange: #eba613;
 }
 
 nav a, footer div a{
@@ -74,7 +75,7 @@ div.relative{
 
 img, video{
 	max-width: 600px;
-	border: 2px solid var(--fonthighlight);
+	border: 2px solid var(--fonthighlightorange);
 }
 
 .responsive {
