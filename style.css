@@ -7,6 +7,17 @@
 
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface">
 	
+
+nav a, footer div a{
+	margin:100px 5px;
+	color: var(--fontcolor);
+	text-decoration: none;
+	font-family: "Abril Fatface";
+	font-size: 20px;
+	font-weight: bold;
+	white-space: nowrap;
+}
+
 a:link, a:visited {
   color: var(--fontcolor);
   text-decoration: none;
@@ -17,16 +28,6 @@ a:hover, a:active {
   color: var(--fonthighlight);
   text-decoration: none;
   white-space: nowrap;
-}
-
-nav a, footer div a{
-	margin:100px 5px;
-	color: var(--fontcolor);
-	text-decoration: none;
-	font-family: "Abril Fatface";
-	font-size: 20px;
-	font-weight: bold;
-	white-space: nowrap;
 }
 
 footer{
