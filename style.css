@@ -76,6 +76,7 @@ div.relative{
 img, video{
 	max-width: 600px;
 	border: 5px solid var(--fonthighlightorange);
+	border-radius: 20px;
 }
 
 .responsive {
