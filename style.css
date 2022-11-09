@@ -18,13 +18,11 @@ nav a, footer div a{
 a:link, a:visited {
   color: var(--fontcolor);
   text-decoration: none;
-  white-space: nowrap;
 }
 
 a:hover, a:active {
   color: var(--fonthighlight);
   text-decoration: none;
-  white-space: nowrap;
 }
 
 footer{
