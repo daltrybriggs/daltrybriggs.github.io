@@ -54,6 +54,9 @@ body{
  	background-position: cover;
 }
 
+nav{
+	font-family: "Abril Fatface";
+}
 h1{
 	font-family: "Abril Fatface";
 	font-style: normal;
