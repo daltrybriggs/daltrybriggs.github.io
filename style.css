@@ -8,7 +8,7 @@
 
 nav a, footer div a{
 	margin:100px 5px;
-	color: var(--fonthighlight);
+	color: var(--fonthighlightgreen);
 	text-decoration: none;
 	font-family: "Abril Fatface";
 	font-weight: 100;
@@ -17,7 +17,7 @@ nav a, footer div a{
 }
 
 a:link, a:visited {
-  color: var(--fonthighlight);
+  color: var(--fonthighlightgreen);
   text-decoration: none;
 }
 
