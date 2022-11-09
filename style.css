@@ -1,17 +1,17 @@
-	<link rel="stylesheet" href="https://fonts.google.com/specimen/Abril+Fatface">
+<link rel="stylesheet" href="https://fonts.google.com/specimen/Abril+Fatface">
 	
 :root{
 	--bg-color: #BACDBA;
 	--font-color: #6B92A0;
 	--font-highlight: #6B92A0;
 	--link-color: #eb136d;
-	
 }
 
 a{
 	color: var(--link-color);
+	font-family: "Abril Fatface";
 	text-decoration: none;
-	font-size: 16px;
+	font-size: 18px;
 }
 
 nav a, footer div a{
@@ -27,11 +27,11 @@ body{
 	font-family: Arial;
 	color: var(--font-color);
 	margin: auto;
-	padding:18px;
+	padding: 18px;
 	max-width: 600px;
-	font-size:18px;
+	font-size: 18px;
 	text-align: left;
-	background-color:var(--bg-color);
+	background-color: var(--bg-color);
 	position: relative;
 	border: #CDD7E6;
 	border-width: 50px;
