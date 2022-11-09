@@ -5,6 +5,8 @@
 	--linkcolor: DeepPink;
 }
 
+	<link rel="stylesheet" href="https://fonts.google.com/specimen/Abril+Fatface">
+	
 a:link, a:visited {
   color: var(--fontcolor);
   text-decoration: none;
