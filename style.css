@@ -13,6 +13,7 @@ nav a, footer div a{
 	color: var(--fontcolor);
 	text-decoration: none;
 	font-family: "Abril Fatface";
+	font-weight: 100;
 	font-size: 20px;
 	white-space: nowrap;
 }
@@ -59,14 +60,14 @@ nav{
 }
 h1{
 	font-family: "Abril Fatface";
-	font-style: light;
+	font-weight: 100;
 	color: var(--fontcolor);
 	font-size: 40px;
 }
 
 h2{
 	font-family: "Abril Fatface";
-	font-style: light;
+	font-weight: 100;
 	color: var(--fontcolor);
 	font-size: 30px;
 }
