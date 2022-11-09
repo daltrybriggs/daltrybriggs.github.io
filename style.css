@@ -20,7 +20,9 @@ nav a, footer div a{
 
 footer{
 	margin-top:40px;
+	padding-top: 100px;
 	text-align: center;
+	font-size: 12px;
 }
 
 body{
