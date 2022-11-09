@@ -10,11 +10,13 @@
 a:link, a:visited {
   color: var(--fontcolor);
   text-decoration: none;
+  white-space: nowrap;
 }
 
 a:hover, a:active {
   color: var(--fonthighlight);
   text-decoration: none;
+  white-space: nowrap;
 }
 
 nav a, footer div a{
@@ -22,6 +24,7 @@ nav a, footer div a{
 	font-family: "Abril Fatface";
 	font-size: 20px;
 	font-weight: bold;
+	white-space: nowrap;
 }
 
 footer{
