@@ -22,7 +22,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  color: var(--fontcolor);
+  color: var(--fonthighlightorange);
   text-decoration: none;
 }
 
