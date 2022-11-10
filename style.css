@@ -1,9 +1,9 @@
 :root{
 	--bgcolor: DarkSeaGreen;
-	--fontcolor: white;
+	--fontcolor: #F0EFEC;
 	--fonthighlightgreen: #57714F;
 	--linkcolor: DeepPink;
-	--fonthighlightorange: #eba613;
+	--fonthighlightorange: #D4AF9D;
 }
 
 nav a, footer div a{
