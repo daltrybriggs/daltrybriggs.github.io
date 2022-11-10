@@ -10,8 +10,8 @@ nav a, footer div a{
 	margin:18px 5px;
 	color: var(--fonthighlightgreen);
 	text-decoration: none;
-	font-family: "GlacialIndifferenceRegular";
-	font-weight: 100;
+	font-family: "GlacialIndifferenceBold";
+	font-weight: heavy;
 	font-size: 25px;
 	white-space: nowrap;
 }
