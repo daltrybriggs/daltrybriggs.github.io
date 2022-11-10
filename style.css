@@ -6,7 +6,7 @@
 	--fonthighlightorange: #da866e;
 }
 
-nav, nav a, footer div a{
+nav a, footer div a{
 	margin:18px 1px;
 	color: var(--fonthighlightgreen);
 	text-decoration: none;
@@ -14,6 +14,13 @@ nav, nav a, footer div a{
 	font-weight: heavy;
 	font-size: 25px;
 	white-space: nowrap;
+}
+
+nav{
+	font-family: "GlacialIndifferenceBold";
+	font-weight: heavy;
+	font-size: 25px;
+	color: var(--fonthighlightgreen);
 }
 
 a:link, a:visited {
