@@ -7,7 +7,7 @@
 }
 
 nav a, footer div a{
-	margin:100px 5px;
+	margin:18px 5px;
 	color: var(--fonthighlightgreen);
 	text-decoration: none;
 	font-family: "Abril Fatface";
@@ -40,7 +40,7 @@ body{
 	padding-top: 18px;
 	padding-bottom: 18px;
 	padding-right: 18px;
-	padding-left: 100px;
+	padding-left: 18px;
 	max-width: 50%;
 	font-size: 18px;
 	text-align: left;
