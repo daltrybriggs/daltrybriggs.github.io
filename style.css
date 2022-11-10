@@ -41,8 +41,8 @@ body{
 	padding-bottom: 18px;
 	padding-right: 18px;
 	padding-left: 18px;
-	max-width: 45%;
-	font-size: 18px;
+	max-width: 35%;
+	font-size: 20px;
 	text-align: left;
 	background-color: var(--bgcolor);
 	background-image: url('./background3.jpg');
