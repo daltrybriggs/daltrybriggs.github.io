@@ -6,7 +6,7 @@
 	--fonthighlightorange: #da866e;
 }
 
-nav a, footer div a{
+nav, nav a, footer div a{
 	margin:18px 1px;
 	color: var(--fonthighlightgreen);
 	text-decoration: none;
