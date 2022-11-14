@@ -57,7 +57,7 @@ body{
  	background-size: 100% auto;
 
 }
-@media only screen and (max-width: 1342px) {
+@media only screen and (max-width: 850px) {
   body {
   	font-family: "GlacialIndifferenceRegular";
 	color: var(--fontcolor);
