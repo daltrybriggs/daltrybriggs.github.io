@@ -99,7 +99,7 @@ div.relative{
 }
 
 img, video{
-	max-width: 70%;
+	max-width: 75%;
 	border: 5px solid var(--fonthighlightgreen);
 	border-radius: 20px;
 }
