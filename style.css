@@ -93,6 +93,18 @@ h2{
 	font-size: 30px;
 }
 
+a.hiddenlink{
+	font-family: "GlacialIndifferenceRegular";
+	color: #BACDBA;
+	font-size: 18px;
+}
+
+a.hiddenlink:hover{
+	font-family: "GlacialIndifferenceRegular";
+	color: var(--fonthighlightorange);
+	font-size: 18px;
+}
+
 div.relative{
 	position: relative;
 	left 60;
